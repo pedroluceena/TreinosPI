@@ -1,0 +1,10 @@
+from math import sin , cos , tan , radians
+print('Quer saber qual é o valor do SENO/COS/TAN???')
+angulo = float(input('Digite o ângulo que você deseja: '))
+seno = sin(radians(angulo))
+print(' O ângulo de {} tem o SENO de {:.2f}'.format(angulo,seno))
+cosseno = cos(radians(angulo))
+print(' O ângulo de {} tem o COSSENO de {:.2f}'.format(angulo,cosseno))
+tagente = tan(radians(angulo))
+print(' O ângulo de {} tem o TAGENTE de {:.2f}'.format(angulo,tagente))
+print(' Fim do Programa ')

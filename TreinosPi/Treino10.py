@@ -1,0 +1,5 @@
+print('CALCULO de Desconto ')
+produto=(float(input('Qual valor do produto?R$')))
+desconto=(produto*0.05)
+valorf=(produto-desconto)
+print('O valor do produto é R${} com o desconto de 5% ele fica a R${}'.format(produto,valorf))
