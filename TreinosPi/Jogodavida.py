@@ -16,5 +16,5 @@ print('Se seu poder for maior que 50 Pontos você vencerar o Sexto Desafio da So
 print('.')
 print('.')
 print('.')
-print('.')
+print('.')                                                                                               
 print('Muito obrigado por jogar esse game ,se caso você venceu todos os chefes você literalmente se tornou.')
