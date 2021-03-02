@@ -1,4 +1,4 @@
-print('CALCULO PARA AREA ')
+print('CALCULO DA AREA ')
 altura=float(input('Qual é a altura da Parede em m²: ?'))
 largura=float(input('Qual é a Largura da Parede em m²: ?'))
 Area=largura*altura
